@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/lib/DesignSystem";
 import { Sidebar } from "@/components/Sidebar";
 
 export const metadata = {
-  title: "Mission Control | Hermes Hackathon",
+  title: "Mission Control Hermes | Hermes Hackathon",
   description: "Task tracking dashboard for Hermes Agent",
 };
 
