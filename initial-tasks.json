@@ -1,0 +1,62 @@
+[
+  {
+    "id": "task-1",
+    "title": "Set up Mission Control dashboard",
+    "description": "Initialize Next.js project with task board UI",
+    "status": "done",
+    "assignee": "hermes",
+    "priority": "high",
+    "createdAt": 1700000000000,
+    "updatedAt": 1700000000000
+  },
+  {
+    "id": "task-2",
+    "title": "Implement drag-and-drop for tasks",
+    "description": "Use @dnd-kit to enable moving tasks between columns",
+    "status": "done",
+    "assignee": "hermes",
+    "priority": "high",
+    "createdAt": 1700000001000,
+    "updatedAt": 1700000001000
+  },
+  {
+    "id": "task-3",
+    "title": "Add task creation modal",
+    "description": "Create a modal form to add new tasks with assignee selection",
+    "status": "in_progress",
+    "assignee": "hermes",
+    "priority": "medium",
+    "createdAt": 1700000002000,
+    "updatedAt": 1700000002000
+  },
+  {
+    "id": "task-4",
+    "title": "Build demo video for hackathon submission",
+    "description": "Record a short demo showing Mission Control features",
+    "status": "todo",
+    "assignee": "user",
+    "priority": "high",
+    "createdAt": 1700000003000,
+    "updatedAt": 1700000003000
+  },
+  {
+    "id": "task-5",
+    "title": "Add real-time sync with Convex",
+    "description": "Replace localStorage with Convex backend for multi-device sync",
+    "status": "todo",
+    "assignee": "hermes",
+    "priority": "medium",
+    "createdAt": 1700000004000,
+    "updatedAt": 1700000004000
+  },
+  {
+    "id": "task-6",
+    "title": "Write hackathon submission writeup",
+    "description": "Document the project features and creative aspects",
+    "status": "todo",
+    "assignee": "user",
+    "priority": "medium",
+    "createdAt": 1700000005000,
+    "updatedAt": 1700000005000
+  }
+]
